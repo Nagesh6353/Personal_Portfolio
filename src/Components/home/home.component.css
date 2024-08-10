@@ -6,7 +6,7 @@ h3{
     width: 400px;
     height: auto;
     border: 15px solid #0095ff;
-    border-radius: 60%;
+    border-radius: 30%;
     float: right;
      
 }
@@ -17,5 +17,23 @@ h3{
 .btn:hover{
     cursor: pointer;
     background-color: rgb(255, 0, 0);
-    
+    color: black;
+
+}
+
+.icons{
+    display: flex;
+    flex-direction: row;
+    gap: 70px;
+}
+.icons .fa-brands{
+    color: white;
+    font-size: 25px;
+    cursor: pointer;
+}
+.icons .fa-brands:hover{
+    color: rgb(255, 0, 0);
+    cursor: pointer;
+    box-shadow: 2rem;
+    font-size: 30px;
 }
