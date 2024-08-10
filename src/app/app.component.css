@@ -1,0 +1,15 @@
+.navbar-brand{
+    color: rgb(255, 0, 0);
+    font-size: 28px;
+}
+.navbar-nav{
+    margin-left: 100px;
+    font-weight: bold;
+}
+.nav-link{
+    color: white;
+}
+.nav-link:hover{
+    cursor: pointer;
+    color: orangered;
+}
