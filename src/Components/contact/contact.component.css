@@ -1,0 +1,40 @@
+h1{
+  color: rgb(255, 14, 14);
+}
+.contact-text{
+  max-width: 600px;
+}
+.contact-info ul{
+  list-style: none;
+  margin-left: -32px;
+  
+}
+.contact-info li{
+  padding-bottom: 25px;
+  display: flex;
+  gap: 16px;
+}    
+.contact-info i{
+  color: #00fff7;
+  font-size: 20px;
+  margin-top: 3px;
+}
+.contact-form{
+  float: right;
+  max-width: 600px;
+  
+}
+.contact-form .btn{
+  border: 3px solid rgb(255, 0, 0);
+  color: #fff;
+}
+.contact-form .btn:hover{
+  border: 3px solid rgb(255, 0, 0);
+  background-color: rgb(255, 0, 0);
+  color: black;
+  cursor: pointer;
+}
+.text{
+  color: #00fff7;
+}
+

@@ -1,0 +1,33 @@
+.about-photo{
+    width: 400px;
+    border-radius: 10px;
+}
+.name{
+    color: rgb(2, 242, 255);
+}
+.hero{
+    float: right;
+}
+.story{
+    float: right;
+    max-width: 800px;
+    
+}
+.skill-head, .proj-head, marquee{
+    max-width: 390px;
+    color: rgb(255, 0, 0);
+    font-weight: bold;
+}
+.skills{
+    max-width: 1000px;
+}
+.skill-icon{
+    width: 400px;
+    height: 220px;
+}
+.skill-card2{
+    float: right;
+}
+.skill-card4{
+    float: right;
+}

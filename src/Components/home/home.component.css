@@ -5,7 +5,7 @@ h3{
 .profile-photo{
     width: 400px;
     height: auto;
-    border: 15px solid #0095ff;
+    border: 15px solid rgb(255, 0, 0);
     border-radius: 30%;
     float: right;
      
